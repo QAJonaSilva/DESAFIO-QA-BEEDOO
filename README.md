@@ -36,6 +36,13 @@ e o "Tipo de curso" (Presencial ou online).
 
 - O Usuário deve conseguir excluir curso através do botão "EXCLUIR CURSO"
 
+# ********** Cenários e Casos de Testes **********
+
+https://docs.google.com/spreadsheets/d/1BQoot2k4auZraSAR1C3Cit9oW6EnsoWL9SWe-ze7u_U/edit?usp=sharing
+
+# ********** Evidências **********
+
+https://drive.google.com/drive/folders/1EoN7MmQHiKRO8VGpgTUfQcbCC_hRo-5N?usp=sharing
 
 
 
